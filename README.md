@@ -1,6 +1,6 @@
 # DSCI551_Project
 
-## Excute Restaurant App
+## Execute Restaurant App
 ### Option 1
   - Python3 must be installed.
   - Download requirements.txt and the Admin_interface folder.
