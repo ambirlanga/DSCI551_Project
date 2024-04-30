@@ -12,7 +12,7 @@ pip install -r requirements.txt
 ```shell
 sudo apt-get install python3-tk
 ```
-  - Finally execute "Foody.py" (in same folder as "Manager.py" and .io)
+  - Finally execute "Foody.py" (in same folder as "Manager.py" and .ico)
 ```shell
 python Foody.py
 ```
@@ -22,12 +22,18 @@ python Foody.py
 ## File Structure
 DSCI551Project
   - Admin_Interface (Files used for Login and Admin Grphical Interface)
-    - Foody.py
-    - Manager.py
+    - Foody.py (Tkinter Login and Admin GUI)
+    - Manager.py (External modules for Admin GUI)
+    - 5235253.ico (Icon for Tkinter)
+
+- Exe
+    - Foody.exe (Alternative option to start the application)
+
   - Website (User Website files)
-  - Exe
-    - Foody.exe 
-  - requirements.txt
+    - App.jsx (Website Implementation)
+      
+  - requirements.txt (Libraries required to execute Admin_Interface files)
+    
   - README.md
 
 
