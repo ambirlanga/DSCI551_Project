@@ -1,4 +1,7 @@
 # DSCI551_Project
+Implementation of a scalable friebase database into an Administrator Interface and an User Website.
+
+University of Southern California - DSCI551 Project (Spring 2024)
 
 ## Execute Restaurant App
 ### Option 1
