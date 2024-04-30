@@ -1,6 +1,6 @@
 # DSCI551_Project
 
-## Excute
+## Excute Restaurant App
 ### Option 1
   - Python3 must be installed.
   - Download requirements.txt and the Admin_interface folder.
@@ -21,14 +21,14 @@ python Foody.py
 
 ## File Structure
 DSCI551Project
-  -Admin_Interface
-    -Foody.py
-    -Manager.py
-  -Website
-  -Exe
-    -Foody.exe ### (option 2)
-  -requirements.txt
-  -README.md
+  - Admin_Interface
+    - Foody.py
+    - Manager.py
+  - Website
+  - Exe
+    - Foody.exe ### (option 2)
+  - requirements.txt
+  - README.md
 
 
 ## Work Division
