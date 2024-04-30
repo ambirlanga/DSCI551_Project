@@ -17,16 +17,16 @@ sudo apt-get install python3-tk
 python Foody.py
 ```
 ### Option 2 (Windows)
-  - Downloade the .exe and execute it (Unavialable in MacOs) (Not Tested in Linux)
+  - Downloade the .exe (in the Exe folder) and execute it (Unavialable in MacOs) (Not Tested in Linux)
 
 ## File Structure
 DSCI551Project
-  - Admin_Interface
+  - Admin_Interface (Files used for Login and Admin Grphical Interface)
     - Foody.py
     - Manager.py
-  - Website
+  - Website (User Website files)
   - Exe
-    - Foody.exe ### (option 2)
+    - Foody.exe 
   - requirements.txt
   - README.md
 
