@@ -20,32 +20,34 @@ python Foody.py
   - Downloade the .exe (in the Exe folder) and execute it (Unavialable in MacOs) (Not Tested in Linux)
 
 ## File Structure
-DSCI551Project
+###DSCI551Project
   - Admin_Interface (Files used for Login and Admin Grphical Interface)
     - Foody.py (Tkinter Login and Admin GUI)
     - Manager.py (External modules for Admin GUI)
     - 5235253.ico (Icon for Tkinter)
 
-- Exe
+  - Exe
     - Foody.exe (Alternative option to start the application)
 
   - Website (User Website files)
     - App.jsx (Website Implementation)
+   
+  - README.md
       
   - requirements.txt (Libraries required to execute Admin_Interface files)
     
-  - README.md
+
 
 
 ## Work Division
 ### Chuanzhou(Austin) Zhang:
-  -Manager.py: modules(delete_restaurant)
-  -Website: Complete implementation (in collaboration with Kenneth)
+  - Manager.py: modules(delete_restaurant)
+  - Website: Complete implementation (in collaboration with Kenneth)
 
 ### Kenneth Chan:
-  -Manager.py: modules(add_restaurant)
-  -Website: Complete implementation (in collaboration with Austin)
+  - Manager.py: modules(add_restaurant)
+  - Website: Complete implementation (in collaboration with Austin)
 
 ### Ariel Martinez Birlange:
-  -Manager.py: modules(simpleHash, modify_restaurant, hash_Restaurant, filter_restaurant)
-  -Foody.py: Complete implementation*
+  - Manager.py: modules(simpleHash, modify_restaurant, hash_Restaurant, filter_restaurant)
+  - Foody.py: Complete implementation*
