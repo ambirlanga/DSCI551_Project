@@ -20,7 +20,7 @@ python Foody.py
   - Downloade the .exe (in the Exe folder) and execute it (Unavialable in MacOs) (Not Tested in Linux)
 
 ## File Structure
-###DSCI551Project
+### DSCI551Project
   - Admin_Interface (Files used for Login and Admin Grphical Interface)
     - Foody.py (Tkinter Login and Admin GUI)
     - Manager.py (External modules for Admin GUI)
