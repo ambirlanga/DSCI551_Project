@@ -48,6 +48,6 @@ python Foody.py
   - Manager.py: modules(add_restaurant)
   - Website: Complete implementation (in collaboration with Austin)
 
-### Ariel Martinez Birlange:
+### Ariel Martinez Birlanga:
   - Manager.py: modules(simpleHash, modify_restaurant, hash_Restaurant, filter_restaurant)
-  - Foody.py: Complete implementation*
+  - Foody.py: Complete implementation
