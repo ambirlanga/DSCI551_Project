@@ -3,6 +3,17 @@ Implementation of a scalable friebase database into an Administrator Interface a
 
 University of Southern California - DSCI551 Project (Spring 2024)
 
+## Log In Options
+
+When executing the app you can use the following existing identification parameters to Log In as an User (Website) and Admin (UI):
+
+  - User 
+    - Username: aaa
+    - Password: bbb
+  - Admin
+    - Username: Ariel
+    - Password: 1234
+
 ## Execute Restaurant App
 ### Option 1
   - Python3 must be installed.
