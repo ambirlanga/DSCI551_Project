@@ -15,7 +15,7 @@ When executing the app you can use the following existing identification paramet
     - Password: 1234
 
 ## Execute Restaurant App
-### Option 1
+### Option 1 (Recommended)
   - Python3 must be installed.
   - Download requirements.txt and the Admin_interface folder.
   - Install requirements ('pip' must be previously installed):
