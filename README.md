@@ -34,17 +34,33 @@ python Foody.py
   - Downloade the .exe (in the Exe folder) and execute it (Unavialable in MacOs) (Not Tested in Linux)
 
 ## File Structure
-  - Admin_Interface (Files used for Login and Admin Grphical Interface)
+  - *Admin_Interface* (Files used for Login and Admin Grphical Interface)
     - Foody.py (Tkinter Login and Admin GUI)
     - Manager.py (External modules for Admin GUI)
     - 5235253.ico (Icon for Tkinter)
 
-  - Exe
+  - *Exe*
     - Foody.exe (Alternative option to start the application)
 
-  - Website (User Website MAIN files) https://dsci551projecttesting.netlify.app
-    - src
-      - App.jsx (Website Implementation)
+  - *Website* (Files used for Web App: https://dsci551projecttesting.netlify.app)
+    - firebase.db1.config.js (Sets connection to restaurant database 1)
+    - firebase.db2.config.js (Sets connection to restaurant database 2)
+    - index.html (Web application Entry Point)
+    - package-lock.json (Snapshot for dependencies and versions required - Ensures consistency across enviroments)
+    - package.json (Snapshot for dependencies and versions required - Ensures consistency across enviroments)
+    - postcss.config.js (PostCSS configuration file - tool for transforming CSS with JS plugins)
+    - tailwind.config.js
+    - vite.config.js
+    - *src*
+      - App.jsx (Main application logic, handles frontend actions and web interaction)
+      - App.css (Website stylesheet - Visuals & Layout)
+      - Index.css (Website stylesheet - Visuals & Layout)
+      - main.jsx (Initialize React app and sets the root element where application will be rendered)
+      - utils.js
+      - *assets*
+        . reacts.svg
+    - *public*
+      - vite.svg (Web icon)
    
   - README.md
       
