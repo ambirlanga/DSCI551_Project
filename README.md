@@ -42,7 +42,7 @@ python Foody.py
   - Exe
     - Foody.exe (Alternative option to start the application)
 
-  - Website (User Website MAIN files) 
+  - Website (User Website MAIN files) https://dsci551projecttesting.netlify.app
     - src
       - App.jsx (Website Implementation)
    
