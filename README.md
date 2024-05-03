@@ -42,7 +42,7 @@ python Foody.py
   - Exe
     - Foody.exe (Alternative option to start the application)
 
-  - Website (User Website files)
+  - Website (User Website MAIN files) 
     - src
       - App.jsx (Website Implementation)
    
