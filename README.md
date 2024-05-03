@@ -58,7 +58,7 @@ python Foody.py
       - main.jsx (Initialize React app and sets the root element where application will be rendered)
       - utils.js
       - *assets*
-        . reacts.svg
+        - reacts.svg
     - *public*
       - vite.svg (Web icon)
    
