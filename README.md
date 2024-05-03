@@ -43,7 +43,8 @@ python Foody.py
     - Foody.exe (Alternative option to start the application)
 
   - Website (User Website files)
-    - App.jsx (Website Implementation)
+    - src
+      - App.jsx (Website Implementation)
    
   - README.md
       
